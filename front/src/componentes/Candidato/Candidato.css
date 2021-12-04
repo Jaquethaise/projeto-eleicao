@@ -1,0 +1,16 @@
+.candidato {
+  height: 60vh;
+  border: 3px solid red;
+  margin: 0.2%;
+  background-color: cyan;
+  text-align: center;
+
+}
+
+.formCandidato {
+  margin: 40px;
+}
+
+tbody tr th {
+  width: 10;
+}
